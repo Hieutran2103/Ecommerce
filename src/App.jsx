@@ -12,7 +12,6 @@ import {
   PrivateRoute,
   Login,
   Register,
-  //   AuthWrapper,
 } from "./pages";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
